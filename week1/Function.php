@@ -1,5 +1,6 @@
 <?php
 
+echo "student information"
 function WelcomeMsg($name) {
     echo "Hi $name, Welcome to the Faculty of Computer and IT";
 }
